@@ -87,8 +87,3 @@ npm run dev
 ```
 Open `http://localhost:5173` to test the application.
 
----
-
-## ✍️ Author & Maintainer
-
-* **Saurabh Singh** - Lead Developer & Architect of this project.
